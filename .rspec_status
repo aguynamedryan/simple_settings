@@ -1,0 +1,34 @@
+example_id                                       | status | run_time        |
+------------------------------------------------ | ------ | --------------- |
+./spec/simple_settings/settings_spec.rb[1:1:1]   | passed | 0.00067 seconds |
+./spec/simple_settings/settings_spec.rb[1:1:2]   | passed | 0.00099 seconds |
+./spec/simple_settings/settings_spec.rb[1:1:3]   | passed | 0.00065 seconds |
+./spec/simple_settings/settings_spec.rb[1:1:4]   | passed | 0.00065 seconds |
+./spec/simple_settings/settings_spec.rb[1:1:5]   | passed | 0.00066 seconds |
+./spec/simple_settings/settings_spec.rb[1:2:1]   | passed | 0.00066 seconds |
+./spec/simple_settings/settings_spec.rb[1:2:2]   | passed | 0.00065 seconds |
+./spec/simple_settings/settings_spec.rb[1:3:1]   | passed | 0.00126 seconds |
+./spec/simple_settings/settings_spec.rb[1:3:2]   | passed | 0.00076 seconds |
+./spec/simple_settings/settings_spec.rb[1:3:3]   | passed | 0.00296 seconds |
+./spec/simple_settings/settings_spec.rb[1:4:1]   | passed | 0.00253 seconds |
+./spec/simple_settings/settings_spec.rb[1:5:1]   | passed | 0.00074 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:1:1] | passed | 0.00069 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:1:2] | passed | 0.00068 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:1:3] | passed | 0.00069 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:1:4] | passed | 0.00068 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:1:5] | passed | 0.00102 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:1:6] | passed | 0.0007 seconds  |
+./spec/simple_settings/settings_spec.rb[1:6:2:1] | passed | 0.00075 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:2:2] | passed | 0.00076 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:2:3] | passed | 0.00128 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:2:4] | passed | 0.00068 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:2:5] | passed | 0.00068 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:2:6] | passed | 0.00078 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:3:1] | passed | 0.00065 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:3:2] | passed | 0.00077 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:3:3] | passed | 0.0007 seconds  |
+./spec/simple_settings/settings_spec.rb[1:6:3:4] | passed | 0.00069 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:3:5] | passed | 0.00071 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:3:6] | passed | 0.00167 seconds |
+./spec/simple_settings/settings_spec.rb[1:6:4]   | passed | 0.00156 seconds |
+./spec/simple_settings/settings_spec.rb[1:7:1]   | passed | 0.00236 seconds |
